@@ -20,9 +20,13 @@ To add your own app to the store i have to approve them they must meet these req
 2. Must not download files without user knowing.
 3. Must have a manifest saying what it does in a folder named info 
 ie. /apps/apmss
+
              |
+             
             info
+            
             |
+            
             manifest.dbf
 Inside manifest.dbf
 ```
