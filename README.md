@@ -8,7 +8,7 @@ wget -0 - https://raw.githubusercontent.com/oxmc/piappstore/main/install.sh | ba
 To use the piappstore goto Accessories and click PiAppstore
 that's it!
 # Apps
-To install apps you can search in the gui or in terminal type the name of the application after the caommand.
+To install apps you can search in the gui or in terminal type the name of the application after the command.
 ie.
 ```
 sudo piappstore install apmss
