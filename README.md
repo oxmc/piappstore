@@ -3,7 +3,7 @@
 
 **i just awanted to add a terminal option for the app store.**
 # piappstore
-This adds a terminal version of Botspot's pi-appstore for open source pi apps.
+This adds a terminal version of [Botspot's pi-appstore for open source pi apps](https://github.com/Botspot/pi-apps).
 # Installation
 
 ![Installation.gif](/images/install.gif)
