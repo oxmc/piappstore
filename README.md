@@ -1,7 +1,7 @@
 # |IMPORTANT|
 **I do not own pi-apps at all!**
 
-i just awanted to add a terminal option for the app store.
+**i just awanted to add a terminal option for the app store.**
 # piappstore
 This adds a terminal version of Botspot's pi-appstore for open source pi apps.
 # Installation
